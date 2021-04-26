@@ -1,0 +1,8 @@
+D:\Practice\WebApi\Helper\bin\Debug\netcoreapp3.1\Helper.deps.json
+D:\Practice\WebApi\Helper\bin\Debug\netcoreapp3.1\Helper.dll
+D:\Practice\WebApi\Helper\obj\Debug\netcoreapp3.1\Helper.csprojAssemblyReference.cache
+D:\Practice\WebApi\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+D:\Practice\WebApi\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfo.cs
+D:\Practice\WebApi\Helper\bin\Debug\netcoreapp3.1\Helper.pdb
+D:\Practice\WebApi\Helper\obj\Debug\netcoreapp3.1\Helper.dll
+D:\Practice\WebApi\Helper\obj\Debug\netcoreapp3.1\Helper.pdb

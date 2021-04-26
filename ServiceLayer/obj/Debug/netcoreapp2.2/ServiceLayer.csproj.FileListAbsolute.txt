@@ -1,0 +1,13 @@
+D:\Practice\WebApi\ServiceLayer\bin\Debug\netcoreapp2.2\ServiceLayer.deps.json
+D:\Practice\WebApi\ServiceLayer\bin\Debug\netcoreapp2.2\ServiceLayer.dll
+D:\Practice\WebApi\ServiceLayer\bin\Debug\netcoreapp2.2\ServiceLayer.pdb
+D:\Practice\WebApi\ServiceLayer\bin\Debug\netcoreapp2.2\InterfaceLayer.dll
+D:\Practice\WebApi\ServiceLayer\bin\Debug\netcoreapp2.2\Models.dll
+D:\Practice\WebApi\ServiceLayer\bin\Debug\netcoreapp2.2\InterfaceLayer.pdb
+D:\Practice\WebApi\ServiceLayer\bin\Debug\netcoreapp2.2\Models.pdb
+D:\Practice\WebApi\ServiceLayer\obj\Debug\netcoreapp2.2\ServiceLayer.csprojAssemblyReference.cache
+D:\Practice\WebApi\ServiceLayer\obj\Debug\netcoreapp2.2\ServiceLayer.AssemblyInfoInputs.cache
+D:\Practice\WebApi\ServiceLayer\obj\Debug\netcoreapp2.2\ServiceLayer.AssemblyInfo.cs
+D:\Practice\WebApi\ServiceLayer\obj\Debug\netcoreapp2.2\ServiceLayer.csproj.CopyComplete
+D:\Practice\WebApi\ServiceLayer\obj\Debug\netcoreapp2.2\ServiceLayer.dll
+D:\Practice\WebApi\ServiceLayer\obj\Debug\netcoreapp2.2\ServiceLayer.pdb

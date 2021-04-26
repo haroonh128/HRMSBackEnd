@@ -1,0 +1,10 @@
+D:\Practice\WebApi\Models\bin\Release\netcoreapp3.1\Models.deps.json
+D:\Practice\WebApi\Models\bin\Release\netcoreapp3.1\Models.runtimeconfig.json
+D:\Practice\WebApi\Models\bin\Release\netcoreapp3.1\Models.runtimeconfig.dev.json
+D:\Practice\WebApi\Models\bin\Release\netcoreapp3.1\Models.dll
+D:\Practice\WebApi\Models\bin\Release\netcoreapp3.1\Models.pdb
+D:\Practice\WebApi\Models\obj\Release\netcoreapp3.1\Models.csprojAssemblyReference.cache
+D:\Practice\WebApi\Models\obj\Release\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\Practice\WebApi\Models\obj\Release\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\Practice\WebApi\Models\obj\Release\netcoreapp3.1\Models.dll
+D:\Practice\WebApi\Models\obj\Release\netcoreapp3.1\Models.pdb

@@ -1,0 +1,8 @@
+D:\Practice\WebApi\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+D:\Practice\WebApi\Models\bin\Debug\netcoreapp2.1\Models.dll
+D:\Practice\WebApi\Models\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Practice\WebApi\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+D:\Practice\WebApi\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+D:\Practice\WebApi\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+D:\Practice\WebApi\Models\obj\Debug\netcoreapp2.1\Models.dll
+D:\Practice\WebApi\Models\obj\Debug\netcoreapp2.1\Models.pdb

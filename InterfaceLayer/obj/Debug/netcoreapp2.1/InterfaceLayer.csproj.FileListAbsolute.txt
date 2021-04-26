@@ -1,0 +1,11 @@
+D:\Practice\WebApi\InterfaceLayer\bin\Debug\netcoreapp2.1\InterfaceLayer.deps.json
+D:\Practice\WebApi\InterfaceLayer\bin\Debug\netcoreapp2.1\InterfaceLayer.dll
+D:\Practice\WebApi\InterfaceLayer\bin\Debug\netcoreapp2.1\InterfaceLayer.pdb
+D:\Practice\WebApi\InterfaceLayer\bin\Debug\netcoreapp2.1\Models.dll
+D:\Practice\WebApi\InterfaceLayer\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Practice\WebApi\InterfaceLayer\obj\Debug\netcoreapp2.1\InterfaceLayer.csprojAssemblyReference.cache
+D:\Practice\WebApi\InterfaceLayer\obj\Debug\netcoreapp2.1\InterfaceLayer.AssemblyInfoInputs.cache
+D:\Practice\WebApi\InterfaceLayer\obj\Debug\netcoreapp2.1\InterfaceLayer.AssemblyInfo.cs
+D:\Practice\WebApi\InterfaceLayer\obj\Debug\netcoreapp2.1\InterfaceLayer.csproj.CopyComplete
+D:\Practice\WebApi\InterfaceLayer\obj\Debug\netcoreapp2.1\InterfaceLayer.dll
+D:\Practice\WebApi\InterfaceLayer\obj\Debug\netcoreapp2.1\InterfaceLayer.pdb

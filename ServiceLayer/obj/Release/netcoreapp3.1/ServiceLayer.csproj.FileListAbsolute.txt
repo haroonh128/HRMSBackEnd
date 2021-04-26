@@ -1,0 +1,17 @@
+D:\Practice\WebApi\ServiceLayer\bin\Release\netcoreapp3.1\ServiceLayer.deps.json
+D:\Practice\WebApi\ServiceLayer\bin\Release\netcoreapp3.1\ServiceLayer.runtimeconfig.json
+D:\Practice\WebApi\ServiceLayer\bin\Release\netcoreapp3.1\ServiceLayer.runtimeconfig.dev.json
+D:\Practice\WebApi\ServiceLayer\bin\Release\netcoreapp3.1\ServiceLayer.dll
+D:\Practice\WebApi\ServiceLayer\bin\Release\netcoreapp3.1\ServiceLayer.pdb
+D:\Practice\WebApi\ServiceLayer\bin\Release\netcoreapp3.1\Helper.dll
+D:\Practice\WebApi\ServiceLayer\bin\Release\netcoreapp3.1\InterfaceLayer.dll
+D:\Practice\WebApi\ServiceLayer\bin\Release\netcoreapp3.1\Models.dll
+D:\Practice\WebApi\ServiceLayer\bin\Release\netcoreapp3.1\Helper.pdb
+D:\Practice\WebApi\ServiceLayer\bin\Release\netcoreapp3.1\InterfaceLayer.pdb
+D:\Practice\WebApi\ServiceLayer\bin\Release\netcoreapp3.1\Models.pdb
+D:\Practice\WebApi\ServiceLayer\obj\Release\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+D:\Practice\WebApi\ServiceLayer\obj\Release\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+D:\Practice\WebApi\ServiceLayer\obj\Release\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+D:\Practice\WebApi\ServiceLayer\obj\Release\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+D:\Practice\WebApi\ServiceLayer\obj\Release\netcoreapp3.1\ServiceLayer.dll
+D:\Practice\WebApi\ServiceLayer\obj\Release\netcoreapp3.1\ServiceLayer.pdb
